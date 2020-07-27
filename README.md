@@ -45,7 +45,7 @@ I will do my best to never slack/email you after working hours or over the weeke
 
 ### Feedback
 
-I am always hungry for feedback on what I can do better. I also enjoy praise, but because I don't know how to accept it well and want to be better for the team I appreciate hearing about ways I can improve even more. Delivery of this feedback in public or private is fine by me, the only thing I ask is that it is done sooner rather than later! Before I deliver feedback I will make sure to understand your preferred method of receiving it, but I will strive to make it frequent and meaningful.
+I am always hungry for feedback on what I can do better. I also enjoy praise, but because I don't know how to accept it well - and want to be better for the team - I appreciate hearing about ways I can **improve** even more. Delivery of this feedback in public or private is fine by me, the only thing I ask is that it is done sooner rather than later! Before I deliver feedback I will make sure to understand your preferred method of receiving it, but I will strive to make it frequent and meaningful.
 
 ### How I like to Collaborate
 
