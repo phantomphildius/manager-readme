@@ -18,13 +18,15 @@ We will always have a weekly one on one meeting at the same time, unless there i
 
 ## What Success looks like in a Member of our Team
 
-A successful member of our team exhibits the above qualities but also proactively challenges themselves and others. They feel ownership of their code, domain, and company. Therefore, they strive to leave things better than they found them and are constantly learning to improve themselves and those around them through mentorship and communication. Their curiosity leads to contributions throughout the company in whichever domains they're interested in. Lastly, but most importantly, they are kind and caring for those on the team.
+A successful member of our team exhibits the above qualities but also proactively challenges themselves and others. They feel ownership of their code, domain, and company. Therefore, they strive to leave things better than they found them and are constantly learning to improve themselves and those around them through mentorship and communication. Their curiosity leads to contributions throughout the company in whichever domains they're interested in. Curiosity helps drive individual growth, for example, curiosity can be followed to new responsibility. For example, if there is something that you see me doing that you are interested in - ask about it! I would be happy to explain what I am doing and if it makes sense transfer that responsibility to you!
+
+Lastly, but most importantly, our team members are kind and caring for those on the team.
 
 ## My Work Style
 
 ### Work/Life Balance and Schedule
 
-- I like to start early. That does not mean I am a morning person ☕️🥱 by any means but it is usually time I find myself uninterrupted. I cherish my time before 10 am every day and try to keep it free if possible. It also does not mean you have to be online early.
+- I like to start early. That does not mean I am a morning person ☕ ️🥱 by any means but it is usually time I find myself uninterrupted. I cherish my time before 10 am every day and try to keep it free if possible. It also does not mean you have to be online early.
 - My headphones are usually on. That does not mean I do not want to be disturbed, I happen to work best that way and enjoy music. I may not see you or hear you coming and therefore may be startled. So sometimes a tap on the shoulder could be replaced by a quick slack if you cannot get my attention and I'll be ready to chat in no time.
 - Take vacation, even if it is a day here or there, or an hour in the middle of the day to go for a walk, a run, or get a coffee.
 - I may work late and infrequently on weekends. I expect you to set your own hours without feeling like you need to work mine. Furthermore, I trust you will get your work done, and can work accordingly.
@@ -45,7 +47,9 @@ I will do my best to never slack/email you after working hours or over the weeke
 
 ### Feedback
 
-I am always hungry for feedback on what I can do better. I also enjoy praise, but because I don't know how to accept it well - and want to be better for the team - I appreciate hearing about ways I can **improve** even more. Delivery of this feedback in public or private is fine by me, the only thing I ask is that it is done sooner rather than later! Before I deliver feedback I will make sure to understand your preferred method of receiving it, but I will strive to make it frequent and meaningful.
+I am always hungry for feedback on what I can do better. I also enjoy praise, but because I don't know how to accept it well - and want to be better for the team - I appreciate hearing about ways I can **improve** even more. Delivery of this feedback in public or private is fine by me, the only thing I ask is that it is done sooner rather than later!
+
+When I deliver feedback I will make sure to understand your preferred method of receiving it. With those preferences in mind, I will also strive to deliver feedback frequently and rapidly after an event that merits comment. Lastly, I will be honest about how I think you are doing, and I only ask that you trust that what I say is always with your best interest in mind.
 
 ### How I like to Collaborate
 
@@ -57,12 +61,16 @@ I am always hungry for feedback on what I can do better. I also enjoy praise, bu
 
 I like to make everyone happy. This can be difficult when making decisions. I understand that I cannot make everyone happy at all times, and in attempting to do so this can do more harm than good. That being said I do try to ensure that Io weigh the costs and benefits to all parties involved. It can also lead to me taking a little bit longer to make decisions, it is also something I am working on.
 
+### When Things Go Wrong
+
+Things will go wrong. That is a fact and while unfortunate it is okay. When something does go south, all I ask is that we quickly diagnose what happened, and find a solution. This can be a fix, a rollback, a status page, or a tough conversation with a teammate. Only afterwards should we retro what happened, then find ways to ensure it doesn't happen again. At no point should we assign blame, there is absolutely no benefit in doing that. My only other ask is that you appraise me of the situation at the appropriate time. That can be during an incident, or afterwards if it makes sense. I will also never assign blame, only look at ways to improve in the future.
+
 ## What makes Andrew Andrew
 
 ### Pet peeves
 
 - I prefer action to talking. I've been in too many meetings that do not provide value. There is a time and a place to debate potential directions or approaches but I bias towards figuring something out by doing.
-- Complacency. To use a tired analogy - I look at growth like a shark. Most sharks cannot continue to live without continuing to swim. Similarly, without pushing your boundaries and constantly making yourself uncomfortable you will not grow. It is my job to help you with this, but I also expect it to be largely driven by you, too.
+- Complacency. To use a tired analogy - I look at growth like a shark. Most sharks cannot continue to live without continuing to swim (Except for a few. If you're interested we should talk about buccal pumping sometime). Similarly, without pushing your boundaries and constantly making yourself uncomfortable you will not grow. It is my job to help you with this, but I also expect it to be largely driven by you, too.
 - Negative comments or body language. If something or someone is bothering you lets talk about it. If there is something going on outside of work that is okay! Lets figure out how to balance it with your current responsibilities.
 
 ### Things I am Working On
