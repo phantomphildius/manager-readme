@@ -1,6 +1,6 @@
 # Hi, I'm Andrew
 
-I'm incredibly excited to start working together. I am quite excited you are a part of the team! While this document is not intended to replace personal interactions and developing mutual understandings as we work together. I do hope that is helpful in giving you an idea about how I think, prefer to work, and my hope(s) for you. I intend for this document to be living and breathing. If something seems off or different let me know or open a pull request. I did write this after all, so it can't be perfect 😈
+I'm incredibly excited to start working together. I am quite excited you are a part of the team! While this document is not intended to replace personal interactions and developing mutual understandings as we work together. I do hope that is helpful in giving you an idea about how I think, prefer to work, and my hope(s) for you. I intend for this document to be living and breathing. If something seems off or different let me know or open a pull request. I did write this after all, so it can't be perfect 😈 . Lastly, these types of READMEs have [received some criticism](https://medium.com/@marcusblankenship/burn-your-manager-readme-a8bfab7b9d8f). I think the criticisms are valid. I intend not to ask you to do the work to make our relationship work, nor adjust your core beliefs to align with mine. My only intent is to put myself out in the open and spark conversation.
 
 ## Our average week
 
