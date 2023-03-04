@@ -1,10 +1,10 @@
 # Hi, I'm Andrew
 
-I'm incredibly excited to start working together. I am quite excited you are a part of the team! While this document is not intended to replace personal interactions and developing mutual understandings as we work together. I do hope that it is helpful in giving you an idea about how I think, prefer to work, and my hope(s) for you. I intend for this document to be living and breathing. If something seems off or different let me know or open a pull request. I did write this after all, so it can't be perfect 😈 . Lastly, these types of READMEs have [received some criticism](https://medium.com/@marcusblankenship/burn-your-manager-readme-a8bfab7b9d8f). I think the criticisms are valid. I intend not to ask you to do the work to make our relationship work, nor adjust your core beliefs to align with mine. My only intent is to put myself out in the open and spark conversation.
+I'm incredibly excited to start working together. I am quite excited you are a part of the team! While this document is not intended to replace personal interactions and developing mutual understandings as we work together. I do hope that it is helpful in giving you an idea about how I think, prefer to work, and my hope(s) for you. I intend for this document to evolve as I do. That does mean it may get out of date. If something seems off or different let me know or open a pull request. I did write this after all, so it can't be perfect. Lastly, these types of READMEs have [received some criticism](https://medium.com/@marcusblankenship/burn-your-manager-readme-a8bfab7b9d8f). I think the criticisms are valid. I intend not to ask you to do the work to make our relationship work, nor adjust your core beliefs to align with mine. My only intent is to put myself out in the open and spark conversation.
 
 ## Our average week
 
-We will always have a weekly one on one meeting at the same time, unless there is a P0 issue or one of us is on vacation, for at least 30 minutes. This meeting will serve as time to go over topics deeper than standup or a flyby in the kitchen. I intend to talk about things of _substance_ during these conversations such as career goals, things you may want done differently, or comments and concerns about the team. All of that being said, this is **your time** and we can spend it how you see fit! It is as much up to you as it is to me to have topics ready for these meetings because I do not plan on canceling or skipping them. Let's make sure to hold each other accountable to this goal. There will also be daily standups and a weekly team check in.
+We will always have a weekly one on one meeting at the same time, unless there is a P0 issue or one of us is on vacation, for at least 30 minutes. This meeting will serve as time to go over topics deeper than standup or a flyby in the kitchen or slack. I intend to talk about things of _substance_ during these conversations such as career goals, things you may want done differently, or comments and concerns about the team. All of that being said, this is **your time** and we can spend it how you see fit! It is as much up to you as it is to me to have topics ready for these meetings because I do not plan on canceling or skipping them. Let's make sure to hold each other accountable to this goal.
 
 ## My Personal and Team Values
 
@@ -14,7 +14,8 @@ We will always have a weekly one on one meeting at the same time, unless there i
 - **Honest** - There is no trust without honesty. We will not be able to achieve that relationship without first being completely honest with each other. This can be about what is going on in your life, what is happening in the company, or just the timeline of a project. I intend to be as transparent as possible with all things, and ask that you try the same.
 - **Always be shipping** - I think there is compounding value in constantly shipping incremental improvements to our codebase. This can be refactors, optimizations, feature work, or bug fixes. Without shipping constantly, the team loses perceived momentum. This can lead to low morale and creativity.
 - **Challenge the Status Quo** - I hope to never accept a pattern or do something "because that is the way we do things". I expect myself and our team to always be asking "why?". Sometimes the answer is sound and apparent, but this approach will help uncover the times it is not and we will all be better for it. This applies to our code, our team processes, and also organizational structure.
-- **This should be fun** - Like I said before, we do our best work when we are happy. If you are not enjoying your work we should talk about how we can enjoy your work again. Sometimes this could be a new project, new direction, or more learning. It could also be more work from home time or time and space to exercise. Let's figure out what it is for you!
+- **This should be fun** - Like I said before, we do our best work when we are happy and engaged. If you are not enjoying your work we should talk about how we can enjoy your work again. Sometimes this could be a new project, new direction, or more learning. It could also be more work from home time or time and space to exercise. Let's figure out what it is for you!
+- **Do the hard thing** - it Difficult things are difficult for a reason. Something I have learned from my mistakes and successes is that when presented with a difficult decision, the hardest option is usually the correct one. It will be the most impactful in the long term even if it's painful in the short term. It is up to me to ensure it is clear why the decision is being made at the time. 
 
 ## What Success looks like in a Member of our Team
 
@@ -41,7 +42,7 @@ When communicating I prefer to use the following mediums in this order:
 
 - In person/over video - but let's make sure the time is convenient for both of us. If it is not convenient for you I will make sure to find time that fits your schedule or workload.
 - In a meeting
-- Over slack - I think long slack threads can be helpful for future context, but in the moment decision making or collaboration is best served via a video call or in person discussion. I strive to take long slack threads and turn them into real conversations with a recap in slack later.
+- Over slack - I think long slack threads can be helpful for future context, but in the moment decision making or collaboration is best served via a video call or in person discussion (to be documented later).
 
 I will do my best to never slack/email you after working hours or over the weekend. If I do, please do not feel pressure to respond. I know that is a tall ask, because I would feel that pressure. However, I do mean it and will give an honest attempt at not putting you in that situation.
 
@@ -61,6 +62,8 @@ When I deliver feedback I will make sure to understand your preferred method of 
 
 I like to make everyone happy. This can be difficult when making decisions. I understand that I cannot make everyone happy at all times, and in attempting to do so this can do more harm than good. That being said I do try to ensure that I weigh the costs and benefits to all parties involved. It can also lead to me taking a little bit longer to make decisions, it is also something I am working on.
 
+Most of my decisions are informed by data. I choose the word "informed" intentionally because I don't want all my decisions to be solely driven by data. Context matters. It is important to use qualitative data to inform how you process qualitative observations. 
+
 ### When Things Go Wrong
 
 Things will go wrong. That is a fact and while unfortunate it is okay. When something does go south, all I ask is that we quickly diagnose what happened, and find a solution. This can be a fix, a rollback, a status page, or a tough conversation with a teammate. Only afterwards should we retro what happened, then find ways to ensure it doesn't happen again. At no point should we assign blame, there is absolutely no benefit in doing that. My only other ask is that you appraise me of the situation at the appropriate time. That can be during an incident, or afterwards if it makes sense. I too will never assign blame, only look at ways to improve in the future.
@@ -73,22 +76,24 @@ Things will go wrong. That is a fact and while unfortunate it is okay. When some
 - Complacency. To use a tired analogy - I look at growth like a shark. Most sharks cannot continue to live without continuing to swim (Except for a few. If you're interested we should talk about buccal pumping sometime). Similarly, without pushing your boundaries and constantly making yourself uncomfortable you will not grow. It is my job to help you with this, but I also expect it to be largely driven by you, too.
 - Negative comments or body language. If something or someone is bothering you let's talk about it. If there is something going on outside of work that is okay! Let's figure out how to balance it with your current responsibilities.
 - An old coach in high school once told our team to "stop going palms up". Meaning stop blaming the referee or anyone but yourself when something went wrong. I want to ensure our team has a culture that allows you to feel comfortable admitting mistakes. They are teaching tools and make us better in the long term. If something goes wrong - we should understand and feel comfortable to admit that we made incorrect assumptions or decisions and improve on them.
+    - Additionally, if you see something wrong, I want you to feel empowered to fix it. Bring me solutions as opposed to problems. If you want to discuss a problem, be prepared to brainstorm how to solve it once we have time to process it. 
 
 ### Things I am Working On
 
-- Once you get to know me, you will call me a liar when I say I am an introvert. However, in larger groups or with people I am not as familiar with I can be quiet and shy. I am doing my best to be more comfortable in these types of situations. If you notice I am quiet in a larger group I am most likely trying to gather my bearings, I would always appreciate a lifeline in those settings!
-- Balancing planning ahead with the team's current workload and the organizations current priorities. I tend to focus on “the now” and am working on ensuring the team always has meaningful work to accomplish.
-- See above about decision making.
+- Once you get to know me, you will call me a liar when I say I am an introvert. However, in larger groups or with people I am not as familiar with I can be quiet and shy. I am doing my best to be more comfortable in these types of situations. If you notice I am quiet in a larger group I am most likely trying to gather my bearings, I would always appreciate a lifeline in those settings. 
 - I am constantly struggling with an imposter syndrome that is perpetually moving my set of goal posts. While I don't know if this will go away, it is getting better.
 - My typing skills. My school district growing up voted for budget cuts and the typing program went. I'm working on it I promise.
 - Giving critical feedback. See the above section about decision making. I like making people happy. However, just like the shark I previously mentioned, not giving this feedback can stagnate your growth and it is my job to foster your continued growth. This is something that I am always trying to improve.
 - Use of the words "obviously" and "just". Not everything is obvious to everyone and the word "just" can belittle the significance of an action or event for someone.
 - Not eating as many skittles.
+- Understanding and embracing my role in our team'a hierarchy. 
+- Making the difficult decisions decisively.
+- Operating in ambiguity. 
 - There will be times where I go heads down and work on tasks that might be tedious or uninteresting. Currently, I think it is helpful for me to handle this work to shield the team and provide them their cave. Ultimately that is wrong and could eventually be detrimental, which is why it is an area of improvement.
 
 ### Etc
 
-- I grew up outside of Boston, went to school in central PA (where I wanted to be a doctor and we can see how that worked out 😬), worked in the Northeast Kingdom of New Hampshire, and now live in New York. My family is usually in Texas or Rhode Island and my wife's family is from New Jersey. Hopefully this explains something about me, though I'm not sure what it might be.
+- I grew up outside of Boston, went to school in central PA (where I wanted to be a doctor and we can see how that worked out 😬), worked in the Northeast Kingdom of New Hampshire, and now live in New York. My family is usually in Rhode Island and my wife's family is from New Jersey. Hopefully this explains something about me, though I'm not sure what it might be.
 - I like to use vim but also VS Code.
-- More often than not I'd like to be surfing
-- Have you heard of EmberJS 🙃🐹
+- More often than not I'd like to be surfing. 
+- I have an almost 1 year old daughter named Winfred aka Winnie aka Freddie aka Squishy. I am also the supporting character in our almost 2 year old Portuguese Water Dog's story. His name is Obie and is the epitome of controlled chaos. Inlove them dearly and be careful if you ask me about them or want to see photos. You will get what you asked for in full. 
